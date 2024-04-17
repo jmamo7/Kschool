@@ -1,0 +1,25 @@
+// Reglas de NOMBRES de variables
+
+// Pordemos comenzar con letras, $, _, posteriormente se puede usar nnumero. No se puede poner el numero el primero
+
+let $miNumero1 = 10;
+
+console.log ($miNumero1);
+
+
+// si ponemos el NOMBRES de la variable, gracias a Qoukka podemos ver el valor 
+$miNumero1
+
+let _miNumero2 = 20;
+
+console.log (_miNumero2)
+
+let miNumero3 = 30;
+
+console.log(miNumero3);
+
+// JS es sensible a las may y min, no es lo mismo minumero a miNumero, son dos var son diferentes.
+
+let MiNumero3 = 50;
+
+console.log(MiNumero3);
